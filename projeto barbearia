@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+   <head>
+      <meta charset="UTF-8">
+        <title> Barebearia Los Maños Machos </title>
+        <link rel="stylesheet" href="style.css">
+        
+   </head>
+   <body>  
+      <h1>Sobre a Barbearia Los Maños Machos </h1>
+    
+      <p style="font-size: 20px" >Localizada no coração da cidade a Barbearia <em>Los Maños Machos</em> traz para o mercado oque há de melhor para seu cabelo e barba
+       .Fundada em 2002 já é destaque na cidade e conquista novos clientes todos os dias.</p>
+     <p style="font-size: 20px"><strong>Nossa missão é:<em style=" color : red ;">"Proporcionar auto-estima e qualidade de vida aos nossos clientes".</em></strong></p>
+   
+       <p style="font-size: 20px">Oferecemos profissionais experientes e antenados às mudanças do mundo da moda. O atendimento possui padrão de exelência e agilidade, garantindo qualidade
+       e satisfação dos nossos clientes</p>
+   </body>  
+</html>
+p {
+    text-align: center ;
+     background: #f57cc2 ;
+  }
+  h1 {
+    text-align: center ;
+     background: #f57cc2 ;
+  }
+  body {
+    background: #f5b1b1 ;
+  }
+  em {
+    
+  }
